@@ -16,7 +16,7 @@ Pod::Spec.new do |spec|
   #
 
   spec.name         = "shareSDK_YY.podspec"
-  spec.version      = "0.0.1"
+  spec.version      = "1.0.0"
   spec.summary      = "用于第三方登录"
 
   spec.description  = <<-DESC
@@ -37,3 +37,4 @@ Pod::Spec.new do |spec|
   s.preserve_paths = "MOBFoundation/MOBFoundation.framework/MOBFoundation", "MOBFoundation/MOBFoundationEx.framework/MOBFoundationEx", "mob_sharesdk/SDK/ShareSDK/ShareSDK.framework/ShareSDK", "mob_sharesdk/SDK/ShareSDK/Support/PlatformSDK/WeChatSDK/libWeChatSDK.a", "mob_sharesdk/SDK/ShareSDK/Support/PlatformSDK/QQSDK/TencentOpenAPI.framework/TencentOpenAPI"
 
 end
+
