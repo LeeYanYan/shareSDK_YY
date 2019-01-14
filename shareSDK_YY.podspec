@@ -16,7 +16,7 @@ Pod::Spec.new do |spec|
   #
 
   spec.name         = "shareSDK_YY"
-  spec.version      = "1.0.1"
+  spec.version      = "1.0.2"
   spec.summary      = "用于第三方登录"
 
   spec.description  = <<-DESC
