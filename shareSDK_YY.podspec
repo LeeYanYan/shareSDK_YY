@@ -15,15 +15,15 @@ Pod::Spec.new do |spec|
   #  summary should be tweet-length, and the description more in depth.
   #
 
-  spec.name         = "shareSDK_YY.podspec"
-  spec.version      = "1.0.0"
+  spec.name         = "shareSDK_YY"
+  spec.version      = "1.0.1"
   spec.summary      = "用于第三方登录"
 
   spec.description  = <<-DESC
                   用于第三方微信、QQ登录，微信SDK不包含支付
                    DESC
 
-  spec.homepage     = "http://EXAMPLE/shareSDK_YY.podspec"
+  spec.homepage     = "http://www.mob.com/"
 
   spec.license      = { :type => "MIT", :file => "FILE_LICENSE" }
 
